@@ -10,7 +10,13 @@ const songs = [
         lyrics: "<br>Where did you learn what it means to reciprocate?<br>And how much can I be expected to tolerate?<br>So I started to think about the plans I made<br>The debt, unpaid<br>And you just can't call<br>A spade a spade<br>I watch the moon<br>Let it run my mood<br>Can't stop thinking of you<br>I watch you (now I let it go)<br>(And I watch as things play out like)<br>So long nice to know you I'll be<br>Moving on<br>We started off in such a nice place<br>We were talking the same language<br>I o-open and I'm closing<br>You can't stand the thought<br>Of a real beating heart<br>You'd be holding, having trouble<br>O-O-Owning and admit that I am hoping<br>I watch the moon<br>Let it run my mood<br>Can't stop thinking of you<br>I watch you (now I let it go)<br>(And I watch as things play out like)<br>So long nice to know you I'll be<br>Moving on<br>Moving on<br>You<br>Yeah, I always know the truth<br>But I can't just say it to you<br>Yeah, I know the truth<br>I knew<br>Yeah, I always know the truth<br>But I can't just say it to you<br>Yeah, I know the truth<br>I never thought we'd see it through<br>I never could rely on you<br>And few times your face came<br>Into view<br>Into view<br>I'm not into you<br>Into you",
         meaning: "This song reminds me of one my old friends, they told me they loved me, however left. They called me their moon, but i was the one to let them ruin my mood.<br>I love this song."
     },
+ {
+        title: "I. Her Body Was Made of Static by oh, raven girl",
+        lyrics: "<br>Her body was made of static<br>And she was helpless<br>She was featherless<br>She was exposed<br>For something she didn't do<br>I tried to stop it<br>But I was too late",
+        meaning: "Sounds like her body was made of static."
+    },
 
+    
     // Add more songs here
 ];
 
