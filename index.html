@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Music something</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#search-results">Search</a></li>
+            </ul>
+            <form id="search">                            
+                <input type="search" placeholder="Search for a song..." required>               
+                <button type="submit">Search</button>
+            </form>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>You can search for lyrics and a meaning of any song (it doesn't have to work. The results will pop up in the search results section (suprisingly). Whatever song title has to be written exactly as the name is, only one small letter can ruin everything (remember), and also with the author or band or whatever created the song.<br>The source of all lyrics is LyricFind<br>If there is a problem or a song you would like to be added, you can send a mail: funny.duck.butnot@gmail.com</p>
+        </section>
+        
+        <section id="about">
+            <h2>About</h2>
+            <p>This website exists as a place to find lyrics and meanings of songs and music. Please note that music is amaying and though this is a joke, the songs here are real, and people are amaying for being able to write ANY music (and for being able to create websites..).<br>I hope this site will help people appreciate music, thank you.</p>
+        </section>
+
+        <!-- New section for displaying search results -->
+        <section id="search-results">
+            <h2>Search Results</h2>
+            <div id="result"></div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Music something</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
